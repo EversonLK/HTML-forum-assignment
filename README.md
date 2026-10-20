@@ -55,7 +55,7 @@ portfolio
 Open your code editor (e.g., Visual Studio Code, etc.).
 In your code editor, open the terminal.
 Clone the repository:
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/EversonLK/HTML-forum-assignment.git
 Open index.html in your browser, or run the website locally using the Live Server Extension.
 
 
